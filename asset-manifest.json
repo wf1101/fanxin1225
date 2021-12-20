@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fanxin1225/static/css/main.2cc65cb3.css",
+    "main.js": "/fanxin1225/static/js/main.25428a6c.js",
+    "static/js/787.9b126f62.chunk.js": "/fanxin1225/static/js/787.9b126f62.chunk.js",
+    "static/media/yanxin.jpg": "/fanxin1225/static/media/yanxin.c207505101651a094552.jpg",
+    "index.html": "/fanxin1225/index.html",
+    "main.2cc65cb3.css.map": "/fanxin1225/static/css/main.2cc65cb3.css.map",
+    "main.25428a6c.js.map": "/fanxin1225/static/js/main.25428a6c.js.map",
+    "787.9b126f62.chunk.js.map": "/fanxin1225/static/js/787.9b126f62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc65cb3.css",
+    "static/js/main.25428a6c.js"
+  ]
+}
