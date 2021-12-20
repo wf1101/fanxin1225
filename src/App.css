@@ -11,6 +11,36 @@
   height: 400px;
 }
 
+.dialog {
+  color: grey;
+  background-color: burlywood;
+}
+
+.messages {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.messages > ul {
+  width: auto;
+  max-width: 120px;
+  height: auto;
+  margin-left: 5px;
+  border: 2px solid lightgrey;
+  text-align: center;
+  background-color: antiquewhite;
+  padding: .5em;
+}
+
+.container {
+  background-image: url("yanxin.jpg");
+  background-size: 90% 90%;
+  min-height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
