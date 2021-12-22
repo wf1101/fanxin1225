@@ -1,46 +1,9 @@
-/* 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-} */
-
-/* .fanxin {
-  height: 400px;
-} */
-
-/* .dialog {
-  color: grey;
-  background-color: burlywood;
-} */
-
-/* .messages {
-  display: flex; 
-  align-items: stretch;
-  flex-wrap: wrap;
-  height: 100%;
-} */
-
-/* .messages > p {
-  width: auto;
-  max-width: 120px;
-  height: auto;
-  margin-left: 90px;
-  border: 2px solid lightgrey;
-  text-align: center;
-  padding: .5em;
-  opacity: 0.7;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-} */
-
 *{
   margin:0;
   padding:0;
 }
 
 .container {
-  /* background-image: url("yanxin.jpg"); */
-  /* background-size: 80% 80%; */
-  /* min-height: 600px; */
   background-color: #282c34;
   max-height: auto;
   width: auto;
@@ -66,7 +29,8 @@
 }
 
 .happyBirthday {
-  height: 250px;
+  font-size: 8rem;
+  font-weight: bold;
 }
 
 .App {

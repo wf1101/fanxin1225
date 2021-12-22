@@ -1,7 +1,5 @@
 import React from 'react'
 import './App.css';
-import Message from './Message';
-import yanxin from './yanxin.jpg';
 
 function Header() {
     return (
@@ -9,6 +7,7 @@ function Header() {
     <span className='happyBirthday'>
         庄凡心生日快乐！
       </span>
+      <br/>
       <a
         className="App-link"
         href="https://huati.weibo.com/5769150"
