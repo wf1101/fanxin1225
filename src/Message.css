@@ -17,7 +17,7 @@
 .note{
   text-decoration: none;
   color:#000;
-  background:#ffc;
+  background:#ccf;
   display: block;
   height: 4em;
   width: 4em;
@@ -45,7 +45,7 @@ ul li:nth-child(even) a{
   position:relative;
   top:5px;
   /* adding colors */
-  background: rgb(208, 208, 250);
+  background: #ffc;
 }
 
 ul li:nth-child(3n) a{
@@ -59,7 +59,7 @@ ul li:nth-child(5n) a{
   transform:rotate(2deg);
   position:relative;
   top:-10px;
-  background: rgb(216, 179, 207);
+  background: pink;
 }
 
 ul li:nth-child(6n) a{
