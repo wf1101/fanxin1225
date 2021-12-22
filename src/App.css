@@ -3,8 +3,15 @@
   padding:0;
 }
 
+body {
+  display: block;
+  border-style: solid;
+  border-color: burlywood;
+  border-width: 5px;
+  background-color: #666;
+}
+
 .container {
-  background-color: #282c34;
   max-height: auto;
   width: auto;
   font-size: calc(10px + 2vmin);

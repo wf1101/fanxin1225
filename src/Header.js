@@ -5,7 +5,7 @@ function Header() {
     return (
         <div className="header">
             <span className='happyBirthday'>
-                庄凡心生日快乐！
+                庄凡心生日留言板
             </span>
             <br/>
             <a
