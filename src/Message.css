@@ -31,12 +31,12 @@
 
 .noteTitle {
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 1rem;
 }
 
 .noteContent {
  font-family: cursive;
- font-size: 2rem; 
+ font-size: 1rem; 
 }
 
 /* Titlting the notes*/
