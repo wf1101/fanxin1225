@@ -6,7 +6,7 @@ import yanxin from './yanxin.jpg';
 function Header() {
     return (
         <div className="App">
-    <span>
+    <span className='happyBirthday'>
         庄凡心生日快乐！
       </span>
       <a
