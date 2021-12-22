@@ -26,7 +26,7 @@
   transform: rotate(-6deg);
   /* adding transition for hovering*/
   transition: transform .15s linear;
-  opacity: 1;
+  opacity: .8;
 }
 
 .noteTitle {
@@ -45,24 +45,34 @@ ul li:nth-child(even) a{
   position:relative;
   top:5px;
   /* adding colors */
-  background: rgb(190, 240, 190);
+  background: rgb(208, 208, 250);
 }
+
 ul li:nth-child(3n) a{
   transform:rotate(-3deg);
   position:relative;
   top:-5px;
-  background: rgb(248, 175, 193);
+  background: rgb(202, 241, 202);
 }
+
 ul li:nth-child(5n) a{
-  transform:rotate(5deg);
+  transform:rotate(2deg);
   position:relative;
   top:-10px;
+  background: rgb(216, 179, 207);
+}
+
+ul li:nth-child(6n) a{
+  transform:rotate(-4deg);
+  position:relative;
+  top:-5px;
+  background: rgb(187, 234, 245);
 }
 
 /* Zooming the note on hover and focus */
 ul li a:hover,ul li a:focus{
   box-shadow:10px 10px 7px rgba(0,0,0,.7);
-  transform: scale(1.25);
+  transform: scale(1.45);
   position:relative;
   z-index:5;
 }
